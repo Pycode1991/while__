@@ -1,0 +1,32 @@
+@import url(http://fonts.googleapis.com/css?family=Wellfleet);
+
+body {
+    background-color: #523620;
+    color: #fff;
+    font-family: 'Wellfleet','Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 150%;
+    margin: 0px 0px 0px 0px;
+}
+
+h1 {
+    background-image: url(https://unsplash.com/photos/ROWNIiEV9iM);
+    background-repeat: no-repeat;
+    text-indent: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    height: 109px;
+    width: 643px;
+    margin: 40px auto;
+}
+
+#page2 {
+    height: 730px;
+}
+
+#answer {
+    border: 12px double #fff;
+    color: #523620;
+    text-align: left;
+    
+
+}
